@@ -1,2 +1,0 @@
-# HaveFunWithRendering
-Have fun!
